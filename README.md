@@ -1,6 +1,6 @@
-# quake
+# Quake
 
-A new Flutter application.
+Shows list of live earthquake happened all around the world with its magnitude.
 
 ## Getting Started
 
